@@ -1,0 +1,1 @@
+import{F as e}from"./q-BvhbCBuv.js";var t=()=>{let[t]=e();switch(t.theme){case`dark`:document.documentElement.classList.remove(`dark`),t.theme=window.localStorage.theme=`light`;break;default:document.documentElement.classList.add(`dark`),t.theme=window.localStorage.theme=`dark`;break}};export{t as s_UxkL9cgvnJ0};

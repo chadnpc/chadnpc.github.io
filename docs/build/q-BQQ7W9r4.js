@@ -1,0 +1,1 @@
+import{t as e}from"./q-BxJulMEu.js";var t=()=>e(()=>import(`./q-baammpn1.js`),[]);export{t as ServiceworkerServiceWorker};

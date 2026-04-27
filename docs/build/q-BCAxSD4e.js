@@ -1,0 +1,1 @@
+import{F as e,L as t}from"./q-BvhbCBuv.js";var n=async(t,n)=>{let[r,i,a,o]=e();t.defaultPrevented&&(n.hasAttribute(`q:nbs`)?await r(location.href,{type:`popstate`}):n.href&&(n.setAttribute(`aria-pressed`,`true`),await r(n.href,{forceReload:i,replaceState:a,scroll:o}),n.removeAttribute(`aria-pressed`)))};export{t as _hW,n as s_Rab8zzU8XBY};

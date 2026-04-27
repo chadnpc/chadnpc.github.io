@@ -1,0 +1,1 @@
+import{F as e,L as t}from"./q-BvhbCBuv.js";var n=t=>{let[n]=e();if(!n.submitted)return n.submit(t)};export{t as _hW,n as s_fhjMmHJvUEA};

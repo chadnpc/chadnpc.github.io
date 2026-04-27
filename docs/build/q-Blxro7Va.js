@@ -1,0 +1,1 @@
+import{F as e}from"./q-BvhbCBuv.js";var t=()=>{let[t]=e();!t.isScrolling&&window.scrollY>=10?t.isScrolling=!0:t.isScrolling&&window.scrollY<10&&(t.isScrolling=!1)};export{t as s_XEbKZZbQxjU};

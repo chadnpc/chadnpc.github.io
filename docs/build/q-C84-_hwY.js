@@ -1,1 +1,0 @@
-const e={text:"Menu",items:[{text:"Pages",items:[{text:"Services",href:"#"},{text:"Porfolio",href:"#"},{text:"About us",href:"#"},{text:"Terms",href:"/terms/"},{text:"Privacy",href:"/privacy/"}]},{text:"Projects",href:"/project/"}]};export{e as default};

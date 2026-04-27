@@ -1,0 +1,1 @@
+import{F as e}from"./q-BvhbCBuv.js";var t=()=>{let[t]=e();t.isExpanded=!t.isExpanded,document.body.classList.toggle(`overflow-hidden`),document.getElementById(`header`)?.classList.toggle(`h-screen`),document.querySelector(`#header nav`)?.classList.toggle(`hidden`)};export{t as s_Kj0LfMxLn0Q};

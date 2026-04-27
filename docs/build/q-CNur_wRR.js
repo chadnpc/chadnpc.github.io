@@ -1,0 +1,1 @@
+import{t as e}from"./q-BxJulMEu.js";import{T as t,p as n}from"./q-BvhbCBuv.js";var r=t(n(()=>e(()=>import(`./q-Bvz3SAAr.js`),[]),`s_J793JK34CIA`)),i={title:`Error 404`};export{r as default,i as head};

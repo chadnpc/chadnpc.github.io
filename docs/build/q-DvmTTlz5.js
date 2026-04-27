@@ -1,0 +1,1 @@
+import{F as e,L as t}from"./q-BvhbCBuv.js";var n=t=>{let[n]=e();n.error=t.detail.error};export{t as _hW,n as s_c3k8wR8Kgys};

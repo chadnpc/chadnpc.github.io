@@ -1,0 +1,1 @@
+import{F as e,L as t}from"./q-BvhbCBuv.js";var n=()=>{let[t]=e();t.theme=document.documentElement.classList.contains(`dark`)?`dark`:`light`};export{t as _hW,n as s_dPly9fYg4eY};

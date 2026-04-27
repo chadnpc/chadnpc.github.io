@@ -1,0 +1,1 @@
+import{L as e}from"./q-BvhbCBuv.js";var t=(e,t)=>{t.getAttribute(`data-spa-reset`)===`true`&&t.reset(),t.dispatchEvent(new CustomEvent(`submitcompleted`,{bubbles:!1,cancelable:!1,composed:!1,detail:{status:200}}))};export{e as _hW,t as s_iUd70t0h4FY};

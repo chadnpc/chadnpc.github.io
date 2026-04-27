@@ -1,0 +1,1 @@
+import{F as e,L as t}from"./q-BvhbCBuv.js";var n=async({track:t})=>{let[n,r]=e(),i=t(n);if(!i?.resolve)return;let a=r?.[i.id];if(a){let e=await a(i.data);i.resolve(e)}};export{t as _hW,n as s_r4SxCIBUN4M};

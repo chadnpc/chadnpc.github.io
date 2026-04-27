@@ -1,0 +1,1 @@
+import{L as e}from"./q-BvhbCBuv.js";var t=async()=>{console.warn(`QwikCityMockProvider: goto not provided`)};export{e as _hW,t as s_jn1hfFDSJIg};

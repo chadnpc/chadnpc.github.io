@@ -1,0 +1,1 @@
+import{B as e}from"./q-BvhbCBuv.js";import{n as t}from"./q-GId6C9QV2.js";var n=n=>e(`img`,{...t(n)},null,0,`XF_0`);export{n as s_W1wZaAVNrf0};

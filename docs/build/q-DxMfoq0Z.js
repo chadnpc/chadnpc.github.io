@@ -1,0 +1,1 @@
+import{L as e}from"./q-BvhbCBuv.js";import{D as t,k as n}from"./q-CschLB02.js";var r=(e,r)=>{if(!navigator.connection?.saveData&&r&&r.href){let e=new URL(r.href);n(e.pathname),r.hasAttribute(`data-prefetch`)&&t(e,r,{preloadRouteBundles:!1,isPrefetch:!0})}};export{e as _hW,r as s_jE01SyFcXWQ};

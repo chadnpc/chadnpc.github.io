@@ -1,0 +1,1 @@
+import{L as e}from"./q-BvhbCBuv.js";import{k as t}from"./q-CschLB02.js";var n=(e,n)=>{t(new URL(n.href).pathname,1)};export{e as _hW,n as s_lEx8te5L2jM};

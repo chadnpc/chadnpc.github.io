@@ -1,0 +1,1 @@
+import{t as e}from"./q-BxJulMEu.js";import{T as t,p as n}from"./q-BvhbCBuv.js";import{t as r}from"./q-C3HwrVKh.js";var i=t(n(()=>e(()=>import(`./q-CtbhH3uz.js`),[]),`s_opHLpbnX23M`)),a={title:`Projects by chadnpc`,meta:[{name:`description`,content:r.description}]};export{i as default,a as head};

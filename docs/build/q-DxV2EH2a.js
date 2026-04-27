@@ -1,1 +1,0 @@
-const t = { name: "projects", title: "projects — A central hub to hosts chadnpc.com 's coding projects.", description: "A centralized repository that hosts documentation, guides, and resources for all my GitHub coding projects.", origin: "https://chadnpc.github.io", basePathname: "/", trailingSlash: !0 }; export { t as S };
